@@ -10,6 +10,6 @@ def div(a, b):
     return a / b
 
 # Example Usage
-print(div(6, 2))  # Output: 3.0
-print(div(6, 0))  # Output: "Denominator can't be zero"
+print(div(6, 2)) 
+print(div(6, 0)) 
 
